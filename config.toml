@@ -98,12 +98,6 @@ googleAnalytics = "your ga id"
     name = "Wild"
     url = "#"
     weight = 20
-[[menu.main]]
-    parent = "Theme"
-    identifier = "export-wild"
-    name = "Export Wild Style"
-    url = "#"
-    weight = 25
 
 [markup]
   [markup.goldmark]
