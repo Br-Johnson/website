@@ -1,6 +1,6 @@
 theme = "edidor"
 title = "B Johnson"
-baseurl = "https://your-site-url"
+baseurl = "https://bjohnson.netlify.app"
 AuthorName = "Brett Johnson"
 # place your logo file to ./static/images to set logo
 
